@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
 		<link rel="apple-touch-icon" href="apple-touch-icon.html">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 		<!-- Bootstrap v4.4.1 css -->
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 		<!-- font-awesome css -->
@@ -51,7 +51,7 @@
 	   	<div id="pre-load">
             <div id="loader" class="loader">
                 <div class="loader-container">
-                    <div class="loader-icon"><img src="assets/images/fav.png" alt="Konstruk - Construction & Building Html Template "></div>
+                    <div class="loader-icon"><img src="assets/images/favicon.png" alt="Konstruk - Construction & Building Html Template "></div>
                 </div>
             </div>              
         </div>
@@ -80,7 +80,7 @@
 					<div class="row">
 						<div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
 							<div class="footer-logo mb-51 md-mb-30">
-								<a href="index.html"><img src="assets/images/logo-white.png" alt=""></a>
+								<a href="index.html"><img src="assets/images/logo-dark.png" alt=""></a>
 							</div>
 							<div class="textwidget">
 								<p class="pb-20">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
