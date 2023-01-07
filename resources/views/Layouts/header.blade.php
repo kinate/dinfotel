@@ -56,17 +56,17 @@
                                 <ul class="nav-menu">
                                     {{-- <li class="menu-item-has-children current-menu-item"> --}}
                                     <li class="current-menu-item">
-                                        <a href="index.html">Home</a>
+                                        <a href="{{ URL::to('index') }}">Home</a>
                                     </li>
                                     <li>
-                                        <a href="about.html">About</a>
+                                        <a href="{{ URL::to('about') }}">About</a>
                                     </li>
                                    
                                     <li>
-                                        <a href="blog.html">Services</a>
+                                        <a href="{{ URL::to('services') }}">Services</a>
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact</a>
+                                        <a href="{{ URL::to('contact') }}">Contact</a>
                                     </li>
                                 </ul> <!-- //.nav-menu -->
                             </nav>
