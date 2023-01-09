@@ -1,29 +1,30 @@
 @extends('Layouts.MasterPage')
-@section('page_title','About us')
+@section('page_title', 'About us')
 @section('page_contents')
 
-		<!-- Breadcrumbs Start -->
-<div class="rs-breadcrumbs img1">
-            <div class="container">
-                <div class="breadcrumbs-inner">
-                    <h1 class="page-title">
-                           About Dinfotel
-                    </h1>
-                    <span class="sub-text">Design, Supply, Installation, Testing and Commissioning of IT and Telecommunications Systems<br> 
+    <!-- Breadcrumbs Start -->
+    <div class="rs-breadcrumbs img1">
+        <div class="container">
+            <div class="breadcrumbs-inner">
+                <h1 class="page-title">
+                    About Dinfotel
+                </h1>
+                <span class="sub-text">Design, Supply, Installation, Testing and Commissioning of IT and Telecommunications
+                    Systems<br>
                     With more than 2+ Years in service.</span>
-                    <ul class="breadcrumbs-area">
-                       <li title="Go to konstruk">
-                           <a class="active" href="index.html">Home</a>
-                       </li>
-                      <li>About</li>
-                   </ul>
-                </div>
+                <ul class="breadcrumbs-area">
+                    <li title="Go to konstruk">
+                        <a class="active" href="index.html">Home</a>
+                    </li>
+                    <li>About</li>
+                </ul>
+            </div>
+        </div>
     </div>
-</div>
-<!-- Breadcrumbs End -->
+    <!-- Breadcrumbs End -->
 
 
-	<!-- About Start -->
+    <!-- About Start -->
     <div class="rs-about about-style1 bg1 pt-120 pb-120 md-pt-80 md-pb-75">
         <div class="container">
             <div class="row y-middle">
@@ -43,25 +44,28 @@
                         </h2>
                         <p class="desc pb-37">
                             Dinfotel Solutions Company Limited is an Engineering and Technological Company which deals
-                             with Design, Supply, Installation, Testing and Commissioning of Electronics, 
-                             Telecommunications, Computers Systems, Mechanical, Electrical,
-                             Infrastructures of the Construction Industry for ICT Systems and  Networks, 
-                             Security Systems ,HVAC, Digital Marketing and Engineering Project Management Services.
+                            with Design, Supply, Installation, Testing and Commissioning of Electronics,
+                            Telecommunications, Computers Systems, Mechanical, Electrical,
+                            Infrastructures of the Construction Industry for ICT Systems and Networks,
+                            Security Systems ,HVAC, Digital Marketing and Engineering Project Management Services.
                         </p>
-                        
-                            <h5>Mission</h5>
-                            <p>
-                                To achieve excellence in project execution, quality, reliability, safety and operational efficiency.
-                            </p>
-                            <h5>Vision</h5>
-                            <p>
-                                To be a leading company provider in creating value through Engineering and Technological Convergence.
-                            </p>
-                            <h5>Quality Policy </h5>
-                            <p>
-                                Committed to provide quality services in compliance with local and international standards that will meet stakeholders  preferences.
-                            </p>
-                      
+
+                        <h5>Mission</h5>
+                        <p>
+                            To achieve excellence in project execution, quality, reliability, safety and operational
+                            efficiency.
+                        </p>
+                        <h5>Vision</h5>
+                        <p>
+                            To be a leading company provider in creating value through Engineering and Technological
+                            Convergence.
+                        </p>
+                        <h5>Quality Policy </h5>
+                        <p>
+                            Committed to provide quality services in compliance with local and international standards that
+                            will meet stakeholders preferences.
+                        </p>
+
                     </div>
                 </div>
             </div>
