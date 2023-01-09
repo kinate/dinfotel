@@ -1926,7 +1926,7 @@ blockquote p {
   border: 0;
   width: 65px;
   height: 5px;
-  background: #FFB703;
+  background: #ED1C24;
   z-index: 1;
   margin-left: 0;
   left: 0;
@@ -2335,7 +2335,7 @@ blockquote p {
   font-size: 14px;
 }
 .full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix .opening em i {
-  color: #ffb703;
+  color: #ED1C24;
 }
 .full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix .opening em i:before {
   font-size: 18px;
@@ -2357,7 +2357,7 @@ blockquote p {
   color: #ffffff;
 }
 .full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix li a i:hover {
-  color: #ffb703;
+  color: #ED1C24;
 }
 .full-width-header .rs-header .toolbar-area.topbar-style1.topber-modify1 .toolbar-sl-share .clearfix li a i:hover,
 .full-width-header .rs-header .toolbar-area.topbar-style1.topber-modify1 .toolbar-contact .rs-contact-info li a:hover,
@@ -3827,7 +3827,7 @@ body .search-modal .close:hover {
   right: 0;
   transition: all .3s ease;
   z-index: -1;
-  background: #ffb703;
+  background: #ED1C24;
   width: 65px;
 }
 .rs-breadcrumbs .breadcrumbs-inner .sub-text {
@@ -3860,7 +3860,7 @@ body .search-modal .close:hover {
 .rs-breadcrumbs .breadcrumbs-inner .breadcrumbs-area li a:before {
   content: "";
   position: absolute;
-  background: #ffb703;
+  background: #ED1C24;
   width: 7px;
   height: 7px;
   border-radius: 50%;
@@ -6116,7 +6116,7 @@ body .search-modal .close:hover {
   z-index: -1;
   transform: rotate(45deg);
   transform: translate(0px, 0px) rotate(0deg) !important;
-  background: #FFB703;
+  background: #1B75BC;
   border-radius: 50px 50px 50px 50px;
   transition: all 0.3s ease 0s;
 }
@@ -10791,14 +10791,14 @@ body .search-modal .close:hover {
   color: #ffffff;
 }
 .rs-footer.footer-main-home .footer-bottom .copy-right-menu li a:hover {
-  color: #ffb703;
+  color: #ED1C24;
 }
 .rs-footer.footer-main-home .footer-bottom .copy-right-menu li:before {
   display: block;
   content: "";
   position: absolute;
   font-size: 18px;
-  background: #ffb703;
+  background: #ED1C24;
   left: 0;
   top: 50%;
   width: 6px;

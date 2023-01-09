@@ -83,7 +83,7 @@
 								<a href="index.html"><img src="assets/images/logo-dark.png" alt=""></a>
 							</div>
 							<div class="textwidget">
-								<p class="pb-20">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
+								<p class="pb-20">Committed to provide quality services in compliance with local and international standards that will meet stakeholders  preferences. </p>
 								<p class="pb-25"><strong>Opening Hours</strong> : Monday – Sat: 9am to 6pm</p>
 							</div>
 							<ul class="footer-social md-mb-30">  
@@ -146,17 +146,16 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="#">Pages</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="{{ URL::to('index') }}">Home</a></li>
+                                <li><a href="{{ URL::to('about') }}">About</a></li>
+                                <li><a href="{{ URL::to('services') }}">Services</a></li>
+                                
+                                <li><a href="{{ URL::to('contact') }}">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright text-lg-start text-center">
-                                <p>© 2022 Konstruk.  Designed By <a href="https://devsdesign.net/" target="blank">Devsdesign</a></p>
+                                <p>© {{ date('Y') }}.  Designed By <a href="https://www.hellensoft.co.tz/" target="blank">HELLENSOFT</a></p>
                             </div>
                         </div>
                     </div>
