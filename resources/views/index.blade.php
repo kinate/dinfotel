@@ -95,53 +95,25 @@
                         Who We Are
                     </span>
                     <h2 class="title pb-20">
-                        Construction solutions focused future ready
+                        Dinfotel focused future ready
                     </h2>
                     <p class="desc pb-37">
-                        Leverage agile frameworks to provide a robust synopsis for high 
-                        level overviews. Iterative approaches to corporate strategy data 
-                        foster to collaborative thinking to empowerment.
+                        Dinfotel Solutions Company Limited is an Engineering and Technological 
+                        Company which deals with Design, Supply, Installation,
+                        Testing and Commissioning of Electronics, Telecommunications, 
+                        Computers Systems, Mechanical, Electrical,
+                        Infrastructures of the Construction Industry for ICT Systems and Networks,
+                        Security Systems 
+                        ,HVAC, Digital Marketing and Engineering Project Management Services.	
                     </p>
-                    <div class="row y-middle">
-                        <div class="col-lg-4 col-md-4 sm-mb-30">
-                            <div class="about-img">
-                                <img src="assets/images/about/style1/abzt.jpg" alt="About">
-                            </div>
-                        </div>
-                        <div class="col-lg-8 col-md-8">
-                            <ul class="check-lists">
-                                <li class="list-item">
-                                    <span class="icon-list-icon">
-                                        <i class="fa fa-check-circle"></i>						
-                                    </span>
-                                    <span class="list-text">Pre-construction services</span>
-                                </li>
-                                <li class="list-item">
-                                    <span class="icon-list-icon">
-                                        <i class="fa fa-check-circle"></i>						
-                                    </span>
-                                    <span class="list-text">Industrial manufacturing</span>
-                                </li>
-                                <li class="list-item">
-                                    <span class="icon-list-icon">
-                                        <i class="fa fa-check-circle"></i>						
-                                    </span>
-                                    <span class="list-text">Building and construction</span>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                  
                     <div class="row mt-47 md-mt-25">
                         <div  class="col-lg-6 col-md-4 sm-mb-30">
                             <div class="btn-part">
-                                <a class="readon more know" href="about.html">Know more</a>
+                                <a class="readon more know" href="{{ URL::to('about') }}">Read More</a>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-8">
-                            <div class="signeture-img">
-                                <img src="assets/images/about/style1/signeture1.png" alt="Images">
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -366,14 +338,14 @@
                         Number talks
                     </span>
                     <h2 class="title white-color pb-20">
-                        Konstruk will help you get<br> 
+                        Dinfotel will help you get<br> 
                         things complete reality.
                     </h2>
                     <p class="desc desc2 pb-45">
-                        Konstruk will help you get things complete reality.
+                        Our experience down the line to our clients.
                     </p>
                     <div class="btn-part">
-                        <a class="readon more contact" href="contact.html">Contact Now</a>
+                        <a class="readon more contact" href="{{ URL::to('contact') }}">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -429,61 +401,6 @@
     </div>
 </div>
 <!-- Counter End -->
-
-<!-- Faq Section Start -->
-<div class="rs-faq faq-style1">
-   <div class="row">
-           <div class="col-lg-4 offset-2 faq-offset6 md-mb-50">			   			
-            <div class="faq-content">
-                <div class="sec-title mb-40">
-                    <span class="sub-text">
-                        <img src="assets/images/shape-1.png" alt="Images">
-                        Your Benefit
-                    </span>
-                    <h2 class="title">
-                        Build better futures with<br> 
-                        steady focus on quality
-                    </h2>
-                </div>
-                   <div id="accordion" class="accordion">
-                      <div class="card">
-                          <div class="card-header">
-                            <a class="card-link" href="#" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true">We are a global family that values diversity.</a>
-                          </div>
-                          <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
-                              <div class="card-body">
-                                Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally cumstances occur in which toil and pain can procuresteady steady. 
-                              </div>
-                         </div>
-                      </div>
-                       <div class="card">
-                           <div class="card-header">
-                           <a class="card-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false">We own and shape our future.</a>
-                           </div>
-                           <div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
-                               <div class="card-body">
-                                Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally cumstances occur in which toil and pain can procuresteady steady. 
-                               </div>
-                           </div>
-                       </div>
-                       <div class="card">
-                           <div class="card-header">
-                           <a class="card-link collapsed last-margin" href="#" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false">We create sustainable growth.</a>
-                           </div>
-                           <div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
-                               <div class="card-body">
-                                   Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally cumstances occur in which toil and pain can procuresteady steady. 
-                               </div>
-                           </div>
-                      </div>
-                   </div>
-           </div>
-           </div>
-           <div class="col-lg-6 faq-images md-offset-2"></div>
-   </div>
-</div>
-<!-- Faq Section End -->
-
 <!-- Project Section Start -->
 <div class="rs-project project-style1 gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
@@ -720,234 +637,6 @@
 </div>
 <!-- Why Choose End -->
 
-<!-- Testimonial Section Start -->
-<div id="rs-testimonial" class="rs-testimonial testimonial-style1 gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 md-mb-50">
-                <div class="sec-title mb-45">
-                    <span class="sub-text">
-                        <img src="assets/images/shape-1.png" alt="Images">
-                        Testimonials
-                    </span>
-                    <h2 class="title">
-                        Our clients reviews.
-                    </h2>
-                </div>
-                <div class="testi-item-content">
-                    <div class="slider testi-slide-1">
-                        <div class="testi-item">
-                           <div class="item-content">
-                                   <span><img src="assets/images/testimonial/style1/quote.png" alt="Testimonial"></span>
-                                   <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                           </div>
-                           <div class="testi-content">
-                                   <div class="image-wrap">
-                                       <img src="assets/images/testimonial/style1/testi1.jpg" alt="Testimonial">
-                                   </div>
-                                   <div class="testi-information">
-                                       <div class="testi-name">David M. Martin</div>
-                                       <span class="testi-title">CEO, Pro Theme</span>
-                                   </div>
-                           </div>
-                        </div>
-                        <div class="testi-item">
-                           <div class="item-content">
-                                   <span><img src="assets/images/testimonial/style1/quote.png" alt="Testimonial"></span>
-                                   <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                           </div>
-                           <div class="testi-content">
-                                   <div class="image-wrap">
-                                       <img src="assets/images/testimonial/style1/testi2.jpg" alt="Testimonial">
-                                   </div>
-                                   <div class="testi-information">
-                                       <div class="testi-name">Angel Puspa</div>
-                                       <span class="testi-title">CEO, Brick Consulting</span>
-                                   </div>
-                           </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <!-- Team Section Start -->
-                <div class="rs-team team-style1">
-                    <div class="sec-title mb-45">
-                        <span class="sub-text">
-                            <img src="assets/images/shape-1.png" alt="Images">
-                            Team Members
-                        </span>
-                        <h2 class="title">
-                            Expert team members.
-                        </h2>
-                    </div>
-                       <div class="vertical-widget-content">
-                          <div class="slick-part single-product-slider">
-                              <div class="slider slider-for">
-                                  <div class="team-inner-wrap">
-                                      <div class="image-wrap">
-                                              <a href="team-single.html"><img src="assets/images/team/tm1.jpg" alt="Team"></a>
-                                      </div>
-                                      <div class="team-content">
-                                              <h3 class="title"><a href="team-single.html">Davis Youn</a></h3>
-                                              <span class="team-title">Architecture</span>
-                                      </div>
-                                  </div>
-                                  <div class="team-inner-wrap">
-                                      <div class="image-wrap">
-                                              <a href="team-single.html"><img src="assets/images/team/tm2.jpg" alt="Team"></a>
-                                      </div>
-                                      <div class="team-content">
-                                              <h3 class="title"><a href="team-single.html">Eng Forhad Ahmad</a></h3>
-                                              <span class="team-title">Project Manager</span>
-                                      </div>
-                                  </div>
-                                  <div class="team-inner-wrap">
-                                      <div class="image-wrap">
-                                              <a href="team-single.html"><img src="assets/images/team/tm3.jpg" alt="Team"></a>
-                                      </div>
-                                      <div class="team-content">
-                                              <h3 class="title"><a href="team-single.html">Masud Maria</a></h3>
-                                              <span class="team-title">Foreman</span>
-                                      </div>
-                                  </div>
-                                  <div class="team-inner-wrap">
-                                      <div class="image-wrap">
-                                              <a href="team-single.html"><img src="assets/images/team/tm4.jpg" alt="Team"></a>
-                                      </div>
-                                      <div class="team-content">
-                                              <h3 class="title"><a href="team-single.html">Shahinur Islam</a></h3>
-                                              <span class="team-title">Construction Worker</span>
-                                      </div>
-                                  </div>
-                                  <div class="team-inner-wrap">
-                                      <div class="image-wrap">
-                                              <a href="team-single.html"><img src="assets/images/team/tm5.jpg" alt="Team"></a>
-                                      </div>
-                                      <div class="team-content">
-                                              <h3 class="title"><a href="team-single.html">Abdur Rashid</a></h3>
-                                              <span class="team-title">CEO & Engineer</span>
-                                      </div>
-                                  </div>
-                                  <div class="team-inner-wrap">
-                                      <div class="image-wrap">
-                                              <a href="team-single.html"><img src="assets/images/team/tm6.jpg" alt="Team"></a>
-                                      </div>
-                                      <div class="team-content">
-                                              <h3 class="title"><a href="team-single.html">Deluar Hossen</a></h3>
-                                              <span class="team-title">Builder Advisor</span>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="slider slider-nav">
-                                  <div class="images-list">
-                                      <a href="team-single.html"><img src="assets/images/team/tm1.jpg" alt="Team"></a>
-                                  </div>
-                                  <div class="images-list">
-                                      <a href="team-single.html"><img src="assets/images/team/tm2.jpg" alt="Team"></a>
-                                  </div>
-                                  <div class="images-list">
-                                      <a href="team-single.html"><img src="assets/images/team/tm3.jpg" alt="Team"></a>
-                                  </div>
-                                  <div class="images-list">
-                                      <a href="team-single.html"><img src="assets/images/team/tm4.jpg" alt="Team"></a>
-                                  </div>
-                                  <div class="images-list">
-                                      <a href="team-single.html"><img src="assets/images/team/tm5.jpg" alt="Team"></a>
-                                  </div>
-                                  <div class="images-list">
-                                      <a href="team-single.html"><img src="assets/images/team/tm6.jpg" alt="Team"></a>
-                                  </div>
-                              </div>
-                          </div>
-                       </div>
-                </div>
-                <!-- Team Section End -->
-            </div>
-        </div>
-    </div>
-    <!-- Partner Start -->
-    <div class="rs-partner partner-main-home pt-100 md-pt-70">
-        <div class="container">               
-            <div class="partner-content-widget">
-                <div class="rs-carousel owl-carousel" 
-                    data-loop="true" 
-                    data-items="6" 
-                    data-margin="30" 
-                    data-autoplay="true" 
-                    data-hoverpause="true" 
-                    data-autoplay-timeout="5000" 
-                    data-smart-speed="800" 
-                    data-dots="false" 
-                    data-nav="false" 
-                    data-nav-speed="false" 
-
-                    data-md-device="6" 
-                    data-md-device-nav="false" 
-                    data-md-device-dots="false" 
-                    data-center-mode="false"
-
-                    data-ipad-device2="4" 
-                    data-ipad-device-nav2="false" 
-                    data-ipad-device-dots2="false"
-
-                    data-ipad-device="4" 
-                    data-ipad-device-nav="false" 
-                    data-ipad-device-dots="false" 
-
-                    data-mobile-device="2" 
-                    data-mobile-device-nav="false" 
-                    data-mobile-device-dots="false">  
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/1.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/1.png" title="" alt="">
-                        </a>
-                    </div>
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/2.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/2.png" title="" alt="">
-                        </a>
-                    </div>
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/3.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/3.png" title="" alt="">
-                        </a>
-                    </div>
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/4.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/4.png" title="" alt="">
-                        </a>
-                    </div>
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/5.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/5.png" title="" alt="">
-                        </a>
-                    </div>
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/6.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/6.png" title="" alt="">
-                        </a>
-                    </div>
-                    <div class="logo-img">
-                        <a href="https://devsdesign.net/">
-                            <img class="hovers-logos rs-grid-img" src="assets/images/partner/style1/7.png" title="" alt="">
-                            <img class="mains-logos rs-grid-img " src="assets/images/partner/style1/7.png" title="" alt="">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Partner End -->
-</div>
-<!-- Testimonial Section End -->
-
 <!-- Contact Section Start -->
 <div class="rs-contact contact-style1 bg3">
        <div class="row">
@@ -1000,8 +689,8 @@
                         <img src="assets/images/contact/style1/icons/1.png" alt="images">
                     </div>
                     <div class="content-text">
-                        <h4 class="title"><a href="#">USA office</a></h4>
-                        <p class="services-txt">55 Gerad Lane,<br> NY 11201, USA</p>
+                        <h4 class="title"><a href="#">Our office</a></h4>
+                        <p class="services-txt">Tanzanite Park Building,<br> Ursino street</p>
                     </div>
                 </div>
                 <div class="contact-box mb-20">
@@ -1011,8 +700,8 @@
                     <div class="content-text">
                         <h4 class="title"><a href="#">Email us</a></h4>
                         <p class="services-txt">
-                            <a href="mailto:test@gamil.com">test@gamil.com</a><br>
-                            <a href="mailto:test2@gamil.com">test2@gamil.com</a>
+                            <a href="mailto:enquiry@dinfotel.co.tz">enquiry@dinfotel.co.tz</a>
+                          
                         </p>
                     </div>
                 </div>
@@ -1023,8 +712,8 @@
                     <div class="content-text">
                         <h4 class="title"><a href="#">Call us</a></h4>
                         <p class="services-txt">
-                            <a href="tel:(+088)589-8745">(+088) 589-8745</a><br>
-                            <a href="tel:(+088)222-9999">(+088) 222-9999</a>
+                            <a href="tel:+255 747 236 250">+255 747 236 250</a><br>
+                            
                         </p>
                     </div>
                 </div>
@@ -1034,103 +723,6 @@
        </div>
 </div>
 <!-- Contact Section End -->
-
-<!-- Blog Section Start -->
-<div id="rs-blog" class="rs-blog blog-main-home pt-120 pb-120 md-pt-80 md-pb-80">
-    <div class="container">  
-        <div class="sec-title text-center mb-45 md-mb-25">
-            <span class="sub-text">
-                <img src="assets/images/shape-1.png" alt="Images">
-                News & Blog
-            </span>
-            <h2 class="title">
-                Our latest news post<br> 
-                and articles?
-            </h2>
-        </div>
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-single.html"><img src="assets/images/blog/style1/1.jpg" alt=""></a>
-                </div>
-                <div class="blog-content">
-                    <ul class="blog-meta">
-                        <li class="date"><i class="fa fa-calendar-check-o"></i>26 April 2022</li>
-                           <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
-                       </ul>
-                    <h3 class="blog-title"><a href="blog-single.html">We really appreciate content about the construction</a></h3>
-                    <div class="blog-button"><a href="blog-single.html">Read More</a></div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-single.html"><img src="assets/images/blog/style1/2.jpg" alt=""></a>
-                </div>
-                <div class="blog-content">
-                    <ul class="blog-meta">
-                        <li class="date"><i class="fa fa-calendar-check-o"></i>26 April 2022</li>
-                           <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
-                       </ul>
-                    <h3 class="blog-title"><a href="blog-single.html">Best practices construction law on construction</a></h3>
-                    <div class="blog-button"><a href="blog-single.html">Read More</a></div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-single.html"><img src="assets/images/blog/style1/3.jpg" alt=""></a>
-                </div>
-                <div class="blog-content">
-                    <ul class="blog-meta">
-                        <li class="date"><i class="fa fa-calendar-check-o"></i>26 April 2022</li>
-                           <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
-                       </ul>
-                    <h3 class="blog-title"><a href="blog-single.html">Although many people may overlook the need</a></h3>
-                    <div class="blog-button"><a href="blog-single.html">Read More</a></div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-single.html"><img src="assets/images/blog/style1/4.jpg" alt=""></a>
-                </div>
-                <div class="blog-content">
-                    <ul class="blog-meta">
-                        <li class="date"><i class="fa fa-calendar-check-o"></i>26 April 2022</li>
-                           <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
-                       </ul>
-                    <h3 class="blog-title"><a href="blog-single.html">Construction executive holds a very special place</a></h3>
-                    <div class="blog-button"><a href="blog-single.html">Read More</a></div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-single.html"><img src="assets/images/blog/style1/5.jpg" alt=""></a>
-                </div>
-                <div class="blog-content">
-                    <ul class="blog-meta">
-                        <li class="date"><i class="fa fa-calendar-check-o"></i>26 April 2022</li>
-                           <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
-                       </ul>
-                    <h3 class="blog-title"><a href="blog-single.html">This is another massive sites with a ton of information</a></h3>
-                    <div class="blog-button"><a href="blog-single.html">Read More</a></div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-single.html"><img src="assets/images/blog/style1/6.jpg" alt=""></a>
-                </div>
-                <div class="blog-content">
-                    <ul class="blog-meta">
-                        <li class="date"><i class="fa fa-calendar-check-o"></i>26 April 2022</li>
-                           <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
-                       </ul>
-                    <h3 class="blog-title"><a href="blog-single.html">The construction business the owner site is jam-packed</a></h3>
-                    <div class="blog-button"><a href="blog-single.html">Read More</a></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Blog Section End -->
 
 <!-- Call To Action Choose Start -->
 <div class="rs-cta bg4 pt-120 pb-115 md-pt-80 md-pb-75">

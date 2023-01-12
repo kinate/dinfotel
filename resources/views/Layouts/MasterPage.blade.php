@@ -78,9 +78,9 @@
 			<div class="footer-top">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
+						<div class="col-lg-4 pr-20 md-pr-15 md-mb-20">
 							<div class="footer-logo mb-51 md-mb-30">
-								<a href="index.html"><img src="assets/images/logo-dark.png" alt=""></a>
+								<a href="{{ URL::to('index') }}"><img src="assets/images/logo-dark.png" alt=""></a>
 							</div>
 							<div class="textwidget">
 								<p class="pb-20">Committed to provide quality services in compliance with local and international standards that will meet stakeholders  preferences. </p>
@@ -93,33 +93,34 @@
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                     
                           	</ul>
 						</div>
-						<div class="col-lg-3 md-mb-10">
+						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Contact Info</h3>
 							<ul class="address-widget">
                                 <li>
                                     <i class="fi fi-rr-map-marker-home"></i>
                                     <div class="desc">
-                                    	Ta-134/A, Gulshan Badda Link<br>
-                                    	Rd, Dhaka
+                                    	Tanzanite Park Building,<br> Ursino street 
 									</div>
                                 </li>
                                 <li>
                                     <i class="fi fi-rr-phone-call"></i>
                                     <div class="desc">
-                                       <a href="tel:(+880)15569569365">(+880)155 69569 365</a><br>
-                                       <a href="tel:(+880)15569569366">(+880)155 69569 366</a>
+                                       <a href="tel:(+880)15569569365">+255 747 236 250</a><br>
+                                       <a href="tel:(+880)15569569366">+255 747 236 250</a>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="fi fi-rr-envelope-plus"></i>
                                     <div class="desc">
-                                        <a href="mailto:support@devsdesign.com">support@devsdesign.com</a><br>
-                                        <a href="mailto:infoname@gmail.com">infoname@gmail.com</a>
+                                        <a href="mailto:support@devsdesign.com">info@dinfotel.co.tz</a><br>
+                                        <a href="mailto:infoname@gmail.com">sales@dinfotel.co.tz</a>
+										
+
                                     </div>
                                 </li>
                             </ul>
 						</div>
-						<div class="col-lg-3 md-mb-10">
+						{{-- <div class="col-lg-3 md-mb-10">
 							<h3 class="footer-title">Our Services</h3>
 							<ul class="site-map">
                                 <li><a href="general-construction.html">General Construction</a></li>
@@ -129,8 +130,8 @@
                                 <li><a href="preconstruction.html">Preconstruction</a></li>
                                 <li><a href="design-build.html">Design Build</a></li>
                             </ul>
-						</div>
-						<div class="col-lg-3">
+						</div> --}}
+						<div class="col-lg-4">
 							<h3 class="footer-title">Newsletter</h3>
 							<p class="widget-desc">Tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
 							<p>

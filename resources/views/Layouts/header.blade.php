@@ -8,15 +8,15 @@
                         <ul class="rs-contact-info">                   
                             <li>
                                 <i class="fi fi-rr-envelope-plus"></i>                  
-                                <a href="mailto:info@konstruk.com">info@konstruk.com</a>               
+                                <a href="mailto:info@konstruk.com">info@dinfotel.co.tz</a>               
                             </li>
                             <li>
                                   <i class="fi fi-rr-phone-call"></i>                                      
-                                <a href="tel:(+1)7854-333-222"> (+1) 7854-333-222</a>                   
+                                <a href="tel:(+1)7854-333-222"> +255 747 236 250</a>                   
                             </li>
                             <li>
                                   <i class="fi-rr-map-marker-home"></i>                                      
-                                31 New Street, NY, USA             
+                                Tanzanite Park Building, Ursino street         
                             </li>
                         </ul>
                     </div>
