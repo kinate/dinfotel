@@ -91,7 +91,7 @@
                                      </form>
                                  </div>
                             </li>
-                            <li class="btn-quote"><a class="quote-button" href="{{ URL::to('index') }}">Let's Talk</a></li>
+                            <li class="btn-quote"><a class="quote-button" href="{{ URL::to('contact') }}">Let's Talk</a></li>
                             <li class="humburger">
                                 <a id="nav-expander" class="nav-expander bar" href="#">
                                     <div class="bar">

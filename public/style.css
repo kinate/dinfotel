@@ -229,7 +229,7 @@ ul {
 }
 .bg4 {
   background-color: #010D14;
-  background: url(assets/images/bg/cta-bg.jpg);
+  background: url(assets/images/bg/ready_to_work.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -689,11 +689,11 @@ button:focus {
 }
 .gridFilter.gridfilter-style2 button.active {
   color: #010d14;
-  background: #ffb703;
+  background: #1B75BC;
 }
 .gridFilter.gridfilter-style2 button:hover {
   color: #010d14;
-  background: #ffb703 !important;
+  background: #1B75BC !important;
 }
 .gridFilter.gridfilter-style2.yellow-gridfilter button {
   background: #E8EAEE !important;
@@ -3871,10 +3871,10 @@ body .search-modal .close:hover {
   color: #ffb703;
 }
 .rs-breadcrumbs.img1 {
-  background: url(assets/images/breadcrumbs/inr-1.jpg);
+  background: url(assets/images/bg/counter-bg2.jpg);
 }
 .rs-breadcrumbs.img2 {
-  background: url(assets/images/breadcrumbs/inr-2.jpg);
+  background: url(assets/images/bg/inr-5.jpg);
 }
 .rs-breadcrumbs.img3 {
   background: url(assets/images/breadcrumbs/inr-3.jpg);
@@ -3886,7 +3886,7 @@ body .search-modal .close:hover {
   background: url(assets/images/breadcrumbs/inr-5.jpg);
 }
 .rs-breadcrumbs.img6 {
-  background: url(assets/images/breadcrumbs/inr-6.jpg);
+  background: url(assets/images/bg/inr-5.jpg);
 }
 /* ------------------------------------
 	07. Banner Section CSS
@@ -4611,7 +4611,7 @@ body .search-modal .close:hover {
 	09. Choose Section CSS
 ---------------------------------------*/
 .rs-choose.choose-style1 .video-item {
-  background-image: url(assets/images/video/video1g1.png);
+  background-image: url(assets/images/about/image2.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6216,7 +6216,7 @@ body .search-modal .close:hover {
   width: 87px;
   height: 88px;
   text-align: center;
-  background: #ffb703;
+  background: #1B75BC;
   z-index: 7;
   bottom: 0;
   line-height: 98px;

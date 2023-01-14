@@ -29,7 +29,7 @@
 							<div class="services-item">
 								<div class="serial-number">	01</div>
 								<div class="services-icon">
-									<img src="assets/images/services/style12/icons/ser1.png" alt="Images">
+									<img src="assets/images/services/maintenance.png" alt="Images">
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Design, Supply, Installation, Testing, and Commissioning </a></h4>
@@ -42,7 +42,7 @@
 							<div class="services-item">
 								<div class="serial-number">	02</div>
 								<div class="services-icon">
-									<img src="assets/images/services/style12/icons/ser2.png" alt="Images">
+									<img src="assets/images/services/worker.png" alt="Images">
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Engineering Project Management Services. </a></h4>
@@ -55,7 +55,7 @@
 							<div class="services-item">
 								<div class="serial-number">	03</div>
 								<div class="services-icon">
-									<img src="assets/images/services/style12/icons/ser3.png" alt="Images">
+									<img src="assets/images/services/project.png" alt="Images">
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="general-construction.html">Project managment</a></h4>
@@ -68,7 +68,7 @@
 							<div class="services-item">
 								<div class="serial-number">	04</div>
 								<div class="services-icon">
-									<img src="assets/images/services/style12/icons/ser4.png" alt="Images">
+									<img src="assets/images/services/support.png" alt="Images">
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Outsourcing and in Sourcing of Technical Services.</a></h4>
@@ -81,10 +81,10 @@
 							<div class="services-item">
 								<div class="serial-number">	05</div>
 								<div class="services-icon">
-									<img src="assets/images/services/style12/icons/ser5.png" alt="Images">
+									<img src="assets/images/services/financial.png" alt="Images">
 								</div>
 								<div class="services-text">
-									<h4 class="title"><a href="#">To engage and carry out the</a></h4>
+									<h4 class="title"><a href="#">To engage and carry out the Project's Financial Management   Services.</a></h4>
 									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
 									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
 								</div>
@@ -94,7 +94,7 @@
 							<div class="services-item">
 								<div class="serial-number">	06</div>
 								<div class="services-icon">
-									<img src="assets/images/services/style12/icons/ser6.png" alt="Images">
+									<img src="assets/images/services/bullhorn.png" alt="Images">
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Digital Marketing Services. </a></h4>

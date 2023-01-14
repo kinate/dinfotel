@@ -85,7 +85,7 @@
         <div class="row y-middle">
             <div class="col-lg-6 md-mb-50">
                 <div class="images-part">
-                    <img src="assets/images/about/style1/about.png" alt="About">
+                    <img src="assets/images/about/image1.jpeg" alt="About">
                 </div>
             </div>
             <div class="col-lg-6 pl-50 md-pl-15">
@@ -123,7 +123,7 @@
 <!-- About End -->
 
 <!-- Services Section Start -->
-<div class="rs-services services-main-home gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
+{{-- <div class="rs-services services-main-home gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title text-center mb-55 md-mb-35">
             <span class="sub-text">
@@ -324,11 +324,11 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!-- Services Section End -->
 
 <!-- Counter Start -->
-<div class="rs-counter counter-style1 bg2 pt-120 pb-120 md-pt-80 md-pb-80">
+{{-- <div class="rs-counter counter-style1 bg2 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row y-middle">
             <div class="col-lg-6 md-mb-50">
@@ -399,14 +399,14 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!-- Counter End -->
 <!-- Project Section Start -->
 <div class="rs-project project-style1 gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title text-center mb-45">
             <span class="sub-text">
-                <img src="assets/images/shape-1.png" alt="Images">
+                {{-- <img src="assets/images/shape-1.png" alt="Images"> --}}
                 Projects
             </span>
             <h2 class="title">
@@ -415,27 +415,55 @@
         </div>
         <div class="gridFilter gridfilter-style2 mb-47 text-center">
             <button class="active" data-filter="*">All</button>
-            <button data-filter=".filter1">Architecture</button>
-            <button data-filter=".filter2">House & Exterior</button>
+            <button data-filter=".filter1">Engineering</button>
+            {{-- <button data-filter=".filter2">House & Exterior</button>
             <button data-filter=".filter3">House Renovation</button>
-            <button data-filter=".filter4">Interiors</button>
+            <button data-filter=".filter4">Interiors</button> --}}
         </div>                    
         <div class="row grid">
             <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="projects-single.html"><img src="assets/images/project/style1/1.jpg" alt="images"></a>
+                        <a href="projects-single.html"><img src="assets/images/about/image1.jpeg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="projects-single.html">Blue Glass Building</a></h3>
-                            <span class="category"><a href="projects-single.html">Architecture</a></span>
+                            <h3 class="title"><a href="projects-single.html">Electrical Installation</a></h3>
+                            <span class="category"><a href="projects-single.html">Engineering</a></span>
                         </div>
                         <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter3 filter1">
+            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
+                <div class="project-item">
+                    <div class="project-img">
+                        <a href="projects-single.html"><img src="assets/images/about/image3.jpeg" alt="images"></a>
+                    </div>
+                    <div class="project-content">  
+                        <div class="project-inner">
+                            <h3 class="title"><a href="projects-single.html">Wireless Installation</a></h3>
+                            <span class="category"><a href="projects-single.html">Networking</a></span>
+                        </div>
+                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
+                <div class="project-item">
+                    <div class="project-img">
+                        <a href="projects-single.html"><img src="assets/images/about/image1.jpeg" alt="images"></a>
+                    </div>
+                    <div class="project-content">  
+                        <div class="project-inner">
+                            <h3 class="title"><a href="projects-single.html">Electrical Installation</a></h3>
+                            <span class="category"><a href="projects-single.html">Engineering</a></span>
+                        </div>
+                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                    </div>
+                </div>
+            </div>
+            {{-- <div class="col-lg-4 col-md-6 mb-30 grid-item filter3 filter1">
                 <div class="project-item">
                     <div class="project-img">
                         <a href="projects-single.html"><img src="assets/images/project/style1/2.jpg" alt="images"></a>
@@ -504,7 +532,7 @@
                            <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
                        </div>
                    </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </div>
@@ -514,24 +542,17 @@
 <div class="rs-choose choose-style1">
     <div class="row no-gutters">
         <div class="col-lg-6 md-mb-50 video-item">
-            <div class="rs-videos">
-                <div class="animate-border">
-                    <a class="popup-border popup-videos" href="https://www.youtube.com/watch?v=FMvA5fyZ338">
-                        <i class="fa fa-play"></i>
-                    </a>
-                </div>    
-            </div>
         </div>
         <div class="col-lg-6">
             <div class="widget-wrap-content">
                 <div class="sec-title mb-46 md-mb-25">
                     <span class="sub-text">
-                        <img src="assets/images/shape-1.png" alt="Images">
+                        {{-- <img src="assets/images/shape-1.png" alt="Images"> --}}
                         Why Choose Us
                     </span>
                     <h2 class="title pb-20">
                         Why you should choose<br> 
-                        our konstruk platform.
+                        our Dinfotel Solutions.
                     </h2>
                     <p class="desc">
                         Nor is there anyone who loves or pursues or desires to obtain pain of the<br> 
@@ -596,7 +617,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="working-skill-part pt-50">
+                {{-- <div class="working-skill-part pt-50">
                     <div class="row y-middle">
                         <div class="col-lg-4">
                             <div class="title-inner mb-10">        		      		
@@ -630,7 +651,7 @@
                         </div>
                     </div>
                     <p class="view-result pt-15">5.00 Average Based On 50 Rating – <a href="#"><span>More information</span></a></p>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
@@ -645,7 +666,7 @@
                    <div class="contact-wrap">
                        <div class="sec-title mb-45">
                            <span class="sub-text">
-                               <img src="assets/images/shape-1.png" alt="Images">
+                               {{-- <img src="assets/images/shape-1.png" alt="Images"> --}}
                                Lets talk
                            </span>
                            <h2 class="title">
@@ -653,7 +674,7 @@
                            </h2>
                        </div>
                        <div id="form-messages"></div>
-                       <form id="contact-form" method="post" action="https://devsdesign.net/products/html/konstruk/mailer.php">
+                       <form id="contact-form" method="post" action="">
                            <fieldset>
                                <div class="row">
                                    <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
@@ -730,7 +751,7 @@
         <div class="call-action">
             <div class="sec-title text-center">
                 <span class="sub-text yellow-color">
-                    <img src="assets/images/shape-1.png" alt="Images">
+                    {{-- <img src="assets/images/shape-1.png" alt="Images"> --}}
                     Work With Us !
                 </span>
                 <h2 class="title white-color pb-20">
@@ -741,7 +762,7 @@
                     Iterative approaches to corporate strategy foster collaborative thinking
                 </p>
                 <div class="btn-part">
-                    <a class="readon more contact" href="contact.html">Get Started</a>
+                    <a class="readon more contact" href="{{ URL::to('contact') }}">Get Started</a>
                 </div>
             </div>
         </div>
