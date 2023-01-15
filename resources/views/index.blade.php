@@ -424,42 +424,42 @@
             <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="projects-single.html"><img src="assets/images/about/image1.jpeg" alt="images"></a>
+                        <a href="#"><img src="assets/images/about/image1.jpeg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="projects-single.html">Electrical Installation</a></h3>
-                            <span class="category"><a href="projects-single.html">Engineering</a></span>
+                            <h3 class="title"><a href="#">Electrical Installation</a></h3>
+                            <span class="category"><a href="#">Engineering</a></span>
                         </div>
-                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                        <div class="p-icon"><a href="#"><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="projects-single.html"><img src="assets/images/about/image3.jpeg" alt="images"></a>
+                        <a href="#"><img src="assets/images/about/image3.jpeg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="projects-single.html">Wireless Installation</a></h3>
-                            <span class="category"><a href="projects-single.html">Networking</a></span>
+                            <h3 class="title"><a href="#">Wireless Installation</a></h3>
+                            <span class="category"><a href="#">Networking</a></span>
                         </div>
-                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                        <div class="p-icon"><a href="#"><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="projects-single.html"><img src="assets/images/about/image1.jpeg" alt="images"></a>
+                        <a href="#"><img src="assets/images/about/image1.jpeg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="projects-single.html">Electrical Installation</a></h3>
-                            <span class="category"><a href="projects-single.html">Engineering</a></span>
+                            <h3 class="title"><a href="#">Electrical Installation</a></h3>
+                            <span class="category"><a href="#">Engineering</a></span>
                         </div>
-                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                        <div class="p-icon"><a href="#"><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
             </div>
