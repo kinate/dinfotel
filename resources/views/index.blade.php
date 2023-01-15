@@ -15,7 +15,7 @@
                    <div class="content-part">
                        <span class="sl-subtitle">
                            <img class="sl-icons" src="assets/images/slider/style1/shapes/icons3.png" alt="Images">
-                              Construction Business
+                              Enginnering Works
                        </span>
                        <h1 class="sl-title">
                            We build something<br>
@@ -48,7 +48,7 @@
                 <div class="content-part">
                     <span class="sl-subtitle1">
                         <img class="sl-icons" src="assets/images/slider/style1/shapes/icons3.png" alt="Images">
-                        Construction Business
+                        Engineering Works
                     </span>
                     <h1 class="sl-title1">
                         We build something<br>
