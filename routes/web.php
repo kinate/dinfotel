@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,4 +22,8 @@ Route::get('index', function () {return view('index');});
 Route::get('about', function () {return view('about');});
 Route::get('services', function () {return view('service');});
 Route::get('contact', function () {return view('contact');});
+
+Route::post('submit_enquiry',[PageController::class, 'submit_enquiry']);
+
+
 

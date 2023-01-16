@@ -5191,7 +5191,7 @@ body .search-modal .close:hover {
 	12. Contact Section CSS
 ---------------------------------------*/
 .rs-contact.contact-style1 .contact-right-img {
-  background-image: url(assets/images/contact/con-right.png);
+  /* background-image: url(assets/images/contact/con-right.png); */
   background-position: center left;
   background-repeat: no-repeat;
   background-size: cover;

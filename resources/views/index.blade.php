@@ -674,7 +674,9 @@
                            </h2>
                        </div>
                        <div id="form-messages"></div>
-                       <form id="contact-form" method="post" action="">
+                       @include('Layouts.alert')
+                       <form  method="post" action="{{ URL::to('submit_enquiry') }}">
+                            @csrf
                            <fieldset>
                                <div class="row">
                                    <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
@@ -745,29 +747,6 @@
 </div>
 <!-- Contact Section End -->
 
-<!-- Call To Action Choose Start -->
-<div class="rs-cta bg4 pt-120 pb-115 md-pt-80 md-pb-75">
-    <div class="container">
-        <div class="call-action">
-            <div class="sec-title text-center">
-                <span class="sub-text yellow-color">
-                    {{-- <img src="assets/images/shape-1.png" alt="Images"> --}}
-                    Work With Us !
-                </span>
-                <h2 class="title white-color pb-20">
-                    Have any upcoming project
-                </h2>
-                <p class="desc desc3 pb-35">
-                    Leverage agile frameworks to provide a robust synopsis for high level overviews.<br> 
-                    Iterative approaches to corporate strategy foster collaborative thinking
-                </p>
-                <div class="btn-part">
-                    <a class="readon more contact" href="{{ URL::to('contact') }}">Get Started</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Call To Action Choose End -->
 
 

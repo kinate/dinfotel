@@ -32,7 +32,7 @@
 									<img src="assets/images/services/maintenance.png" alt="Images">
 								</div>
 								<div class="services-text">
-									<h4 class="title"><a href="#">Design, Supply, Installation, Testing, and Commissioning </a></h4>
+									<h4 class="title"><a href="#">Design, Supply, Installation, Testing, and Commissioning of electronics, electrical, Infrastructures of the Construction Industry for ICT Networks. </a></h4>
 									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
 									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
 								</div>
@@ -194,3 +194,4 @@
 
 
  @endsection
+
