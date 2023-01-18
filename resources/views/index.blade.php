@@ -14,8 +14,8 @@
            <div class="container">
                    <div class="content-part">
                        <span class="sl-subtitle">
-                           <img class="sl-icons" src="assets/images/slider/style1/shapes/icons3.png" alt="Images">
-                              Enginnering Works
+                           {{-- <img class="sl-icons" src="assets/images/slider/style1/shapes/icons3.png" alt="Images">
+                              Enginnering Works --}}
                        </span>
                        <h1 class="sl-title">
                            We build something<br>
@@ -414,11 +414,11 @@
             </h2>
         </div>
         <div class="gridFilter gridfilter-style2 mb-47 text-center">
-            <button class="active" data-filter="*">All</button>
-            <button data-filter=".filter1">Engineering</button>
-            {{-- <button data-filter=".filter2">House & Exterior</button>
-            <button data-filter=".filter3">House Renovation</button>
-            <button data-filter=".filter4">Interiors</button> --}}
+            {{-- <button class="active" data-filter="*">All</button>
+            <button data-filter=".filter1">Electrical</button>
+            <button data-filter=".filter2">Networking</button>
+            <button data-filter=".filter3">Telecommunication</button> --}}
+            {{-- <button data-filter=".filter4">Interiors</button> --}}
         </div>                    
         <div class="row grid">
             <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
@@ -435,7 +435,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
+            <div class="col-lg-4 col-md-6 mb-30 grid-item filter2">
                 <div class="project-item">
                     <div class="project-img">
                         <a href="#"><img src="assets/images/about/image3.jpeg" alt="images"></a>
@@ -449,63 +449,63 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
+            <div class="col-lg-4 col-md-6 mb-30 grid-item filter2">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="#"><img src="assets/images/about/image1.jpeg" alt="images"></a>
+                        <a href="#"><img src="assets/images/about/fiber.jpg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="#">Electrical Installation</a></h3>
-                            <span class="category"><a href="#">Engineering</a></span>
+                            <h3 class="title"><a href="#">Fiber splicing & termination</a></h3>
+                            <span class="category"><a href="#">Networking</a></span>
                         </div>
                         <div class="p-icon"><a href="#"><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
             </div>
-            {{-- <div class="col-lg-4 col-md-6 mb-30 grid-item filter3 filter1">
+            <div class="col-lg-4 col-md-6 mb-30 grid-item filter3">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="projects-single.html"><img src="assets/images/project/style1/2.jpg" alt="images"></a>
+                        <a href=""><img src="assets/images/about/tower.jpg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="projects-single.html">Ferguson Family YMCA</a></h3>
-                            <span class="category"><a href="projects-single.html">Architecture</a></span>
+                            <h3 class="title"><a href="">Tower Maintenance</a></h3>
+                            <span class="category"><a href="">Telecommnications</a></span>
                         </div>
-                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                        <div class="p-icon"><a href=""><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter2 filter4">
+            {{-- <div class="col-lg-4 col-md-6 mb-30 grid-item filter3">
                <div class="project-item">
                    <div class="project-img">
-                       <a href="projects-single.html"><img src="assets/images/project/style1/3.jpg" alt="images"></a>
+                       <a href=""><img src="assets/images/about/image3.jpeg" alt="images"></a>
                    </div>
                    <div class="project-content">  
                        <div class="project-inner">
-                           <h3 class="title"><a href="projects-single.html">Stone Harbor</a></h3>
-                           <span class="category"><a href="projects-single.html">House & Exterior</a></span>
+                           <h3 class="title"><a href="">BBU & RRU Installation</a></h3>
+                           <span class="category"><a href="">Telecommunication</a></span>
                        </div>
-                       <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                       <div class="p-icon"><a href=""><i class="flaticon-next"></i></a></div>
                    </div>
                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter2 filter3">
+            </div> --}}
+            <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter3">
                <div class="project-item">
                    <div class="project-img">
-                       <a href="projects-single.html"><img src="assets/images/project/style1/4.jpg" alt="images"></a>
+                       <a href=""><img src="assets/images/about/image3.jpeg" alt="images"></a>
                    </div>
                    <div class="project-content">  
                        <div class="project-inner">
-                           <h3 class="title"><a href="projects-single.html">Hyatt Regency</a></h3>
-                           <span class="category"><a href="projects-single.html">House & Exterior</a></span>
+                           <h3 class="title"><a href="">Microwave installation</a></h3>
+                           <span class="category"><a href="">Telecommication</a></span>
                        </div>
-                       <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                       <div class="p-icon"><a href=""><i class="flaticon-next"></i></a></div>
                    </div>
                </div>
             </div>
-            <div class="col-lg-4 col-md-6 sm-mb-30 grid-item filter3 filter4">
+            {{-- <div class="col-lg-4 col-md-6 sm-mb-30 grid-item filter3 filter4">
                 <div class="project-item">
                     <div class="project-img">
                         <a href="projects-single.html"><img src="assets/images/project/style1/5.jpg" alt="images"></a>

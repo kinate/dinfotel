@@ -30,13 +30,13 @@
             <div class="row y-middle">
                 <div class="col-lg-6 md-mb-50">
                     <div class="images-part">
-                        <img src="assets/images/about/image1.jpeg" alt="About">
+                        <img src="assets/images/about/image5.jpg" alt="About">
                     </div>
                 </div>
                 <div class="col-lg-6 pl-50 md-pl-15">
                     <div class="sec-title">
                         <span class="sub-text">
-                            <img src="assets/images/shape-1.png" alt="Images">
+                            {{-- <img src="assets/images/shape-1.png" alt="Images"> --}}
                             Who We Are
                         </span>
                         <h2 class="title pb-20">

@@ -58,7 +58,7 @@
 									<img src="assets/images/services/project.png" alt="Images">
 								</div>
 								<div class="services-text">
-									<h4 class="title"><a href="general-construction.html">Project managment</a></h4>
+									<h4 class="title"><a href="general-construction.html">Designing and Installation of Specialized work services</a></h4>
 									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
 									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
 								</div>

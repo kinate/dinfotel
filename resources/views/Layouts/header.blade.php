@@ -3,16 +3,16 @@
     <div class="toolbar-area topbar-style1 hidden-md">
         <div class="container">
             <div class="row rs-vertical-middle">
-               <div class="col-lg-7">
+               <div class="col-lg-8">
                     <div class="toolbar-contact">
                         <ul class="rs-contact-info">                   
                             <li>
                                 <i class="fi fi-rr-envelope-plus"></i>                  
-                                <a href="mailto:info@konstruk.com">info@dinfotel.co.tz</a>               
+                                <a href="mailto:info@dinfotel.co.tz">info@dinfotel.co.tz</a>               
                             </li>
                             <li>
                                   <i class="fi fi-rr-phone-call"></i>                                      
-                                <a href="tel:(+1)7854-333-222"> +255 747 236 250</a>                   
+                                <a href="tel:+255 747 236 250"> +255 747 236 250</a>                   
                             </li>
                             <li>
                                   <i class="fi-rr-map-marker-home"></i>                                      
@@ -21,14 +21,14 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-5">
+                <div class="col-lg-4">
                     <div class="toolbar-sl-share">
                         <ul class="clearfix">
                             <li class="opening"> <em><i class="fi fi-rr-time-add"></i> Hours: Mon-Fri: 9.00 am - 7.00 pm</em> </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
+                            <!--<li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
+                            <!--<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>-->
+                            <!--<li><a href="#"><i class="fa fa-instagram"></i></a></li>-->
                         </ul>
                     </div>
                 </div>
@@ -59,11 +59,14 @@
                                         <a href="{{ URL::to('index') }}">Home</a>
                                     </li>
                                     <li>
-                                        <a href="{{ URL::to('about') }}">About</a>
+                                        <a href="{{ URL::to('about') }}">About us</a>
                                     </li>
                                    
                                     <li>
-                                        <a href="{{ URL::to('services') }}">Services</a>
+                                        <a href="{{ URL::to('services') }}">Our services</a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ URL::to('gallery') }}">Gallery</a>
                                     </li>
                                     <li>
                                         <a href="{{ URL::to('contact') }}">Contact</a>
@@ -76,21 +79,21 @@
                 <div class="col-cell">
                     <div class="expand-btn-inner">
                         <ul>
-                            <li class="search-parent">
-                                <a class="hidden-xs rs-search" href="#">
-                                    <i class="fi fi-rr-search"></i>
-                                </a>
-                                <div class="sticky_form">
-                                    <form role="search" class="bs-search search-form" method="get">
-                                        <div class="search-wrap">
-                                             <label class="screen-reader-text active">
-                                                 Search for:     </label>
-                                             <input type="search" placeholder="Searching..." name="s" class="search-input" value="">
-                                             <button type="submit" value="Search"><i class="fi fi-rr-search"></i></button>
-                                         </div>
-                                     </form>
-                                 </div>
-                            </li>
+                            <!--<li class="search-parent">-->
+                            <!--    <a class="hidden-xs rs-search" href="#">-->
+                            <!--        <i class="fi fi-rr-search"></i>-->
+                            <!--    </a>-->
+                            <!--    <div class="sticky_form">-->
+                            <!--        <form role="search" class="bs-search search-form" method="get">-->
+                            <!--            <div class="search-wrap">-->
+                            <!--                 <label class="screen-reader-text active">-->
+                            <!--                     Search for:     </label>-->
+                            <!--                 <input type="search" placeholder="Searching..." name="s" class="search-input" value="">-->
+                            <!--                 <button type="submit" value="Search"><i class="fi fi-rr-search"></i></button>-->
+                            <!--             </div>-->
+                            <!--         </form>-->
+                            <!--     </div>-->
+                            <!--</li>-->
                             <li class="btn-quote"><a class="quote-button" href="{{ URL::to('contact') }}">Let's Talk</a></li>
                             <li class="humburger">
                                 <a id="nav-expander" class="nav-expander bar" href="#">
@@ -131,10 +134,13 @@
                
             </li>
             <li>
-                <a href="{{ URL::to('about') }}">About</a>
+                <a href="{{ URL::to('about') }}">About us</a>
             </li>
             <li class="">
-                <a href="{{ URL::to('services') }}">Services</a>
+                <a href="{{ URL::to('services') }}">Our services</a>
+            </li>
+            <li class="">
+                <a href="{{ URL::to('gallery') }}">Gallery</a>
             </li>
             <li>
                 <a href="{{ URL::to('contact') }}">Contact</a>
@@ -161,7 +167,7 @@
                       </div>
                       <div class="info-content">
                           <h4 class="title">Email</h4>
-                          <em><a href="mailto:info@konstruk.com">Info@dinfotel.co.tz</a></em>
+                          <em><a href="mailto:info@dinfotel.co.tz">info@dinfotel.co.tz</a></em>
                       </div>
                   </div>
                   <div class="address-list">

@@ -150,6 +150,7 @@
                                 <li><a href="{{ URL::to('index') }}">Home</a></li>
                                 <li><a href="{{ URL::to('about') }}">About</a></li>
                                 <li><a href="{{ URL::to('services') }}">Services</a></li>
+                                <li><a href="{{ URL::to('gallery') }}">Gallery</a></li>
                                 
                                 <li><a href="{{ URL::to('contact') }}">Contact</a></li>
                             </ul>
