@@ -410,7 +410,7 @@
                 Projects
             </span>
             <h2 class="title">
-                Latest completed projects
+                Completed projects
             </h2>
         </div>
         <div class="gridFilter gridfilter-style2 mb-47 text-center">
@@ -494,7 +494,7 @@
             <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter3">
                <div class="project-item">
                    <div class="project-img">
-                       <a href=""><img src="assets/images/about/image3.jpeg" alt="images"></a>
+                       <a href=""><img src="assets/images/about/Microwave.jpeg" alt="images"></a>
                    </div>
                    <div class="project-content">  
                        <div class="project-inner">
@@ -551,12 +551,11 @@
                         Why Choose Us
                     </span>
                     <h2 class="title pb-20">
-                        Why you should choose<br> 
-                        our Dinfotel Solutions.
+                        Dinfotel Solutions.
                     </h2>
                     <p class="desc">
-                        Nor is there anyone who loves or pursues or desires to obtain pain of the<br> 
-                        itself, because it is pain, but occasionally cumstances.
+                        We are committed to providing affordable pricing, without compromising on the quality of our services. 
+                        we believe that everyone deserves to have access to reliable and fast services, regardless of their budget.
                     </p>
                 </div>
                 <div class="row">
@@ -610,7 +609,7 @@
                                 </div>
                                 <div class="services-text">
                                     <div class="services-title">				    		
-                                        <h4 class="title">Certified engineer</h4>
+                                        <h4 class="title">Certified Engineers</h4>
                                     </div>    	    						    
                                 </div>
                             </div>

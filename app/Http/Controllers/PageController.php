@@ -16,7 +16,7 @@ class PageController extends Controller
         $website = $request->website;
         $message = $request->message;
 
-        $sendMail=Mail::to('kinate82@gmail.com')->send(new Enquiry($name,$email,$phone,$website,$message));
+        $sendMail=Mail::to('enquiry@dinfotel.co.tz')->send(new Enquiry($name,$email,$phone,$website,$message));
                 if($sendMail){
                     return redirect()->back()->with('success','Thank you for reaching out to us, we will get back to you as ASAP');
 
