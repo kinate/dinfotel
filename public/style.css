@@ -353,7 +353,7 @@ ul {
   background-size: cover;
 }
 .bg23 {
-  background: url(assets/images/bg/konstruk-bg.jpg);
+  background: url(assets/images/banner/banner-1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3835,7 +3835,6 @@ body .search-modal .close:hover {
   line-height: 30px;
   font-weight: 400;
   color: #fff;
-  text-transform: capitalize;
   margin-bottom: 32px;
   display: inline-block;
 }

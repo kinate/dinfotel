@@ -30,7 +30,7 @@
             <div class="row y-middle">
                 <div class="col-lg-6 md-mb-50">
                     <div class="images-part">
-                        <img src="assets/images/about/image5.jpg" alt="About">
+                        <img src="assets/images/about/cap.jpg" alt="About">
                     </div>
                 </div>
                 <div class="col-lg-6 pl-50 md-pl-15">
@@ -42,16 +42,12 @@
                         <h2 class="title pb-20">
                             Dinfotel focused future ready
                         </h2>
-                        <p class="desc pb-37">
-                            Dinfotel Solutions Company Limited is an Engineering and Technological Company which deals
-                            with Design, Supply, Installation, Testing and Commissioning of Electronics,
-                            Telecommunications, Computers Systems, Mechanical, Electrical,
-                            Infrastructures of the Construction Industry for ICT Systems and Networks,
-                            Security Systems ,HVAC, Digital Marketing and Engineering Project Management Services.
+                        <p class="desc pb-37" style="text-align: justify">
+                            Dinfotel Solutions Company Limited is an Engineering and Technological Company which deals with Design, Supply, Installation, Testing and Commissioning of Electronics, Telecommunications, Computers Systems, Mechanical, Electrical, Infrastructures of the Construction Industry for ICT Systems and Networks, Security Systems ,HVAC, Digital Marketing and Engineering Project Management Services.
                         </p>
 
                         <h5>Mission</h5>
-                        <p>
+                        <p style="text-align: justify" >
                             To achieve excellence in project execution, quality, reliability, safety and operational
                             efficiency.
                         </p>

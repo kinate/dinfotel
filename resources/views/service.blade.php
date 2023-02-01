@@ -11,7 +11,7 @@
             </h1>
             <span class="sub-text">Thank you for considering our company for your service needs.<br> We pride ourselves on offering the best services in the industry and strive to exceed our customers' expectations every time.</span>
             <ul class="breadcrumbs-area">
-               <li title="Go to konstruk">
+               <li title="Go to Home">
                    <a class="active" href="{{ URL::to('index') }}">Home</a>
                </li>
               <li>Services</li>
@@ -33,8 +33,7 @@
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Design, Supply, Installation, Testing, and Commissioning of electronics, electrical, Infrastructures of the Construction Industry for ICT Networks. </a></h4>
-									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
-									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
+									
 								</div>
 							</div>
 						</div>
@@ -46,8 +45,7 @@
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Engineering Project Management Services. </a></h4>
-									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
-									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
+									
 								</div>
 							</div>
 						</div>
@@ -59,8 +57,7 @@
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="general-construction.html">Designing and Installation of Specialized work services</a></h4>
-									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
-									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
+									
 								</div>
 							</div>
 						</div>
@@ -72,8 +69,7 @@
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Outsourcing and in Sourcing of Technical Services.</a></h4>
-									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
-									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
+									
 								</div>
 							</div>
 						</div>
@@ -85,8 +81,7 @@
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">To engage and carry out the Project's Financial Management   Services.</a></h4>
-									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
-									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
+									
 								</div>
 							</div>
 						</div>
@@ -98,8 +93,7 @@
 								</div>
 								<div class="services-text">
 									<h4 class="title"><a href="#">Digital Marketing Services. </a></h4>
-									{{-- <p class="services-txt"> Quisque placerat vitae odio lacus uten scelerisque. 
-									Fusce luctus odio ac nibh luctus consulting placerat.</p> --}}
+									
 								</div>
 							</div>
 						</div>
@@ -108,7 +102,7 @@
 			</div>
 			<!-- Services End -->
 
-            <div class="rs-process process-style3 bg23 pt-150 pb-115 md-pt-115 md-pb-80">
+            {{-- <div class="rs-process process-style3 bg23 pt-150 pb-115 md-pt-115 md-pb-80">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8">
@@ -188,7 +182,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> --}}
 
 
 

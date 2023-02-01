@@ -47,15 +47,7 @@
 		
 		<div class="offwrap"></div>
 
-		<!--Preloader start here-->
-	   	{{-- <div id="pre-load">
-            <div id="loader" class="loader">
-                <div class="loader-container">
-                    <div class="loader-icon"><img src="assets/images/favicon.png" alt="Konstruk - Construction & Building Html Template "></div>
-                </div>
-            </div>              
-        </div> --}}
-		<!--Preloader area end here-->
+		
 			
 		<!-- Main content Start -->
 		<div class="main-content">
@@ -84,14 +76,15 @@
 							</div>
 							<div class="textwidget">
 								<p class="pb-20">Committed to provide quality services in compliance with local and international standards that will meet stakeholders  preferences. </p>
-								<p class="pb-25"><strong>Opening Hours</strong> : Monday – Sat: 9am to 6pm</p>
+								<p class="pb-25"><strong>Opening Hours</strong> : <br> Monday – Sat: 9am to 6pm <br>
+								Sunday - Closed</p>
 							</div>
-							<ul class="footer-social md-mb-30">  
+							{{-- <ul class="footer-social md-mb-30">  
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>                     
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>                     
                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>                     
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                     
-                          	</ul>
+                          	</ul> --}}
 						</div>
 						<div class="col-lg-4 md-mb-10">
 							<h3 class="footer-title">Contact Info</h3>
@@ -105,8 +98,8 @@
                                 <li>
                                     <i class="fi fi-rr-phone-call"></i>
                                     <div class="desc">
-                                       <a href="tel:(+880)15569569365">+255 747 236 250</a><br>
-                                       <a href="tel:(+880)15569569366">+255 747 236 250</a>
+                                       <a href="tel:+255 747 236 250">+255 747 236 250</a><br>
+                                       {{-- <a href="tel:(+880)15569569366">+255 747 236 250</a> --}}
                                     </div>
                                 </li>
                                 <li>

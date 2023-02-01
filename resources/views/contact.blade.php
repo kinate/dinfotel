@@ -21,52 +21,10 @@
 
 
 <div class="rs-contact contact-style6 pb-120 md-pb-80">
-    {{-- <div class="row no-gutters">
-        <div class="col-lg-4">
-            <div class="contact-map">
-                <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="contact-section">
-                <div class="contact-wrap">
-                    <div class="sec-title mb-60">
-                        <h2 class="title title4 ser-style4">Get in touch</h2>
-                    </div>
-                    <div id="form-messages"></div>
-                    <form id="contact-form" method="post" action="https://devsdesign.net/products/html/konstruk/mailer.php">
-                        <fieldset>
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                    <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
-                                </div> 
-                                <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                    <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
-                                </div>   
-                                <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                    <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-                                    <input class="from-control" type="text" id="website" name="website" placeholder="Your Website" required="">
-                                </div>
-                                <div class="col-lg-12 mb-30">
-                                    <textarea class="from-control" id="message" name="message" placeholder="Your Message Here" required=""></textarea>
-                                </div>
-                            </div>
-                            <div class="btn-part">                                            
-                                <div class="form-group mb-0">
-                                    <input class="readon more submit sub-con" type="submit" value="Submit Now">
-                                </div>
-                            </div> 
-                        </fieldset>
-                    </form> 
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-4 contact-project"></div>
-    </div> --}}
+   
+
     <!-- Contact Icons Section End -->
-    <div class="rs-contact pt-120 md-pt-80">
+    <div class="rs-contact pt-120 md-pt-80 mb-80">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 md-mb-30">
@@ -108,6 +66,18 @@
         </div>
     </div>
     <!-- Contact Icons Section End -->
+
+    <!--office Location -->
+    <div class="row no-gutters">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
+            <div class="contact-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.4813481681308!2d39.25214032905957!3d-6.778934834703899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4d2747a3120f%3A0x379bdab20f55e898!2sTanzanite%20park%20victoria!5e0!3m2!1sen!2stz!4v1675172305755!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="col-lg-2"></div>
+        </div>
+       
+    </div>
 </div>
 
 @endsection

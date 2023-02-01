@@ -13,10 +13,7 @@
         <div id="slide-1" class="slider-direction">
            <div class="container">
                    <div class="content-part">
-                       <span class="sl-subtitle">
-                           {{-- <img class="sl-icons" src="assets/images/slider/style1/shapes/icons3.png" alt="Images">
-                              Enginnering Works --}}
-                       </span>
+                       
                        <h1 class="sl-title">
                            We build something<br>
                            new and consistent.<br>
@@ -97,7 +94,7 @@
                     <h2 class="title pb-20">
                         Dinfotel focused future ready
                     </h2>
-                    <p class="desc pb-37">
+                    <p class="desc pb-37" style="text-align:justify !important" >
                         Dinfotel Solutions Company Limited is an Engineering and Technological 
                         Company which deals with Design, Supply, Installation,
                         Testing and Commissioning of Electronics, Telecommunications, 
@@ -122,285 +119,7 @@
 </div>
 <!-- About End -->
 
-<!-- Services Section Start -->
-{{-- <div class="rs-services services-main-home gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
-    <div class="container">
-        <div class="sec-title text-center mb-55 md-mb-35">
-            <span class="sub-text">
-                <img src="assets/images/shape-1.png" alt="Images">
-                What We Do
-            </span>
-            <h2 class="title">
-                Develop comprehensive solutions<br> 
-                for each project
-            </h2>
-        </div>
-        <div class="row">
-            <div class="col-xl-4 col-md-6 mb-30">
-                <div class="services-item">
-                    <div class="services-wrap">
-                        <div class="services-image">
-                            <img src="assets/images/services/main-home/main-img/servic-1.jpg" alt="Services">
-                        </div>
-                        <div class="services-content">
-                            <div class="service-inner">
-                                <div class="icon-top">
-                                    <img src="assets/images/services/main-home/main-icons/service-icon1.png" alt="Services">
-                                </div>
-                                <div class="services-titles">
-                                    <h3 class="title"><a href="general-construction.html">General construction</a></h3>
-                                </div>
-                                <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
-                                <div class="services-btn">
-                                    <a class="btn-text" href="general-construction.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="normarl-text-area">
-                            <div class="services-titles">
-                                <h3 class="title"><a href="general-construction.html">General construction</a></h3>
-                            </div>
-                            <div class="icon-image">
-                                <img src="assets/images/services/main-home/main-icons/service-icon1.png" alt="Services">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 mb-30">
-                <div class="services-item">
-                    <div class="services-wrap">
-                        <div class="services-image">
-                            <img src="assets/images/services/main-home/main-img/servic-2.jpg" alt="Services">
-                        </div>
-                        <div class="services-content">
-                            <div class="service-inner">
-                                <div class="icon-top">
-                                    <img src="assets/images/services/main-home/main-icons/service-icon2.png" alt="Services">
-                                </div>
-                                <div class="services-titles">
-                                    <h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
-                                </div>
-                                <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
-                                <div class="services-btn">
-                                    <a class="btn-text" href="property-maintenance.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="normarl-text-area">
-                            <div class="services-titles">
-                                <h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
-                            </div>
-                            <div class="icon-image">
-                                <img src="assets/images/services/main-home/main-icons/service-icon2.png" alt="Services">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 mb-30">
-                <div class="services-item">
-                    <div class="services-wrap">
-                        <div class="services-image">
-                            <img src="assets/images/services/main-home/main-img/servic-3.jpg" alt="Services">
-                        </div>
-                        <div class="services-content">
-                            <div class="service-inner">
-                                <div class="icon-top">
-                                    <img src="assets/images/services/main-home/main-icons/service-icon3.png" alt="Services">
-                                </div>
-                                <div class="services-titles">
-                                    <h3 class="title"><a href="project-managment.html">Project managment</a></h3>
-                                </div>
-                                <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
-                                <div class="services-btn">
-                                    <a class="btn-text" href="project-managment.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="normarl-text-area">
-                            <div class="services-titles">
-                                <h3 class="title"><a href="project-managment.html">Project managment</a></h3>
-                            </div>
-                            <div class="icon-image">
-                                <img src="assets/images/services/main-home/main-icons/service-icon3.png" alt="Services">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 md-mb-30">
-                <div class="services-item">
-                    <div class="services-wrap">
-                        <div class="services-image">
-                            <img src="assets/images/services/main-home/main-img/servic-4.jpg" alt="Services">
-                        </div>
-                        <div class="services-content">
-                            <div class="service-inner">
-                                <div class="icon-top">
-                                    <img src="assets/images/services/main-home/main-icons/service-icon4.png" alt="Services">
-                                </div>
-                                <div class="services-titles">
-                                    <h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
-                                </div>
-                                <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
-                                <div class="services-btn">
-                                    <a class="btn-text" href="virtual-design-build.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="normarl-text-area">
-                            <div class="services-titles">
-                                <h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
-                            </div>
-                            <div class="icon-image">
-                                <img src="assets/images/services/main-home/main-icons/service-icon4.png" alt="Services">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 sm-mb-30">
-                <div class="services-item">
-                    <div class="services-wrap">
-                        <div class="services-image">
-                            <img src="assets/images/services/main-home/main-img/servic-5.jpg" alt="Services">
-                        </div>
-                        <div class="services-content">
-                            <div class="service-inner">
-                                <div class="icon-top">
-                                    <img src="assets/images/services/main-home/main-icons/service-icon5.png" alt="Services">
-                                </div>
-                                <div class="services-titles">
-                                    <h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
-                                </div>
-                                <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
-                                <div class="services-btn">
-                                    <a class="btn-text" href="preconstruction.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="normarl-text-area">
-                            <div class="services-titles">
-                                <h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
-                            </div>
-                            <div class="icon-image">
-                                <img src="assets/images/services/main-home/main-icons/service-icon5.png" alt="Services">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6">
-                <div class="services-item">
-                    <div class="services-wrap">
-                        <div class="services-image">
-                            <img src="assets/images/services/main-home/main-img/servic-6.jpg" alt="Services">
-                        </div>
-                        <div class="services-content">
-                            <div class="service-inner">
-                                <div class="icon-top">
-                                    <img src="assets/images/services/main-home/main-icons/service-icon6.png" alt="Services">
-                                </div>
-                                <div class="services-titles">
-                                    <h3 class="title"><a href="design-build.html">Design build</a></h3>
-                                </div>
-                                <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
-                                <div class="services-btn">
-                                    <a class="btn-text" href="design-build.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="normarl-text-area">
-                            <div class="services-titles">
-                                <h3 class="title"><a href="design-build.html">Design build</a></h3>
-                            </div>
-                            <div class="icon-image">
-                                <img src="assets/images/services/main-home/main-icons/service-icon6.png" alt="Services">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
-<!-- Services Section End -->
 
-<!-- Counter Start -->
-{{-- <div class="rs-counter counter-style1 bg2 pt-120 pb-120 md-pt-80 md-pb-80">
-    <div class="container">
-        <div class="row y-middle">
-            <div class="col-lg-6 md-mb-50">
-                <div class="sec-title">
-                    <span class="sub-text yellow-color">
-                        <img src="assets/images/shape-1.png" alt="Images">
-                        Number talks
-                    </span>
-                    <h2 class="title white-color pb-20">
-                        Dinfotel will help you get<br> 
-                        things complete reality.
-                    </h2>
-                    <p class="desc desc2 pb-45">
-                        Our experience down the line to our clients.
-                    </p>
-                    <div class="btn-part">
-                        <a class="readon more contact" href="{{ URL::to('contact') }}">Contact Now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="row">
-                    <div class="col-xl-6 col-md-6 col-sm-6 mb-30">
-                        <div class="rs-counter-list"> 
-                            <div class="count-text">
-                                <div class="count-number">
-                                    <span class="rs-count">341</span>
-                                    <span class="prefix">+</span>	
-                                </div>
-                                <span class="title">  Completed Projects</span>	
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-md-6 col-sm-6 mb-30">
-                        <div class="rs-counter-list"> 
-                            <div class="count-text">
-                                <div class="count-number">
-                                    <span class="rs-count">302</span>
-                                    <span class="prefix">+</span>	
-                                </div>
-                                <span class="title">Happy Clients</span>	
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-md-6 col-sm-6 xs-mb-30">
-                        <div class="rs-counter-list"> 
-                            <div class="count-text">
-                                <div class="count-number">
-                                    <span class="rs-count">153</span>
-                                    <span class="prefix">+</span>	
-                                </div>
-                                <span class="title">Qualified Engineers</span>	
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-md-6 col-sm-6">
-                        <div class="rs-counter-list"> 
-                            <div class="count-text">
-                                <div class="count-number">
-                                    <span class="rs-count">32</span>
-                                    <span class="prefix">+</span>	
-                                </div>
-                                <span class="title">Years Experiance</span>	
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
-<!-- Counter End -->
 <!-- Project Section Start -->
 <div class="rs-project project-style1 gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
@@ -414,11 +133,7 @@
             </h2>
         </div>
         <div class="gridFilter gridfilter-style2 mb-47 text-center">
-            {{-- <button class="active" data-filter="*">All</button>
-            <button data-filter=".filter1">Electrical</button>
-            <button data-filter=".filter2">Networking</button>
-            <button data-filter=".filter3">Telecommunication</button> --}}
-            {{-- <button data-filter=".filter4">Interiors</button> --}}
+            
         </div>                    
         <div class="row grid">
             <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
@@ -477,24 +192,11 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="col-lg-4 col-md-6 mb-30 grid-item filter3">
-               <div class="project-item">
-                   <div class="project-img">
-                       <a href=""><img src="assets/images/about/image3.jpeg" alt="images"></a>
-                   </div>
-                   <div class="project-content">  
-                       <div class="project-inner">
-                           <h3 class="title"><a href="">BBU & RRU Installation</a></h3>
-                           <span class="category"><a href="">Telecommunication</a></span>
-                       </div>
-                       <div class="p-icon"><a href=""><i class="flaticon-next"></i></a></div>
-                   </div>
-               </div>
-            </div> --}}
+           
             <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter3">
                <div class="project-item">
                    <div class="project-img">
-                       <a href=""><img src="assets/images/about/Microwave.jpeg" alt="images"></a>
+                       <a href=""><img src="assets/images/about/Microwave.jpg" alt="images"></a>
                    </div>
                    <div class="project-content">  
                        <div class="project-inner">
@@ -505,34 +207,22 @@
                    </div>
                </div>
             </div>
-            {{-- <div class="col-lg-4 col-md-6 sm-mb-30 grid-item filter3 filter4">
+
+            <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter3">
                 <div class="project-item">
                     <div class="project-img">
-                        <a href="projects-single.html"><img src="assets/images/project/style1/5.jpg" alt="images"></a>
+                        <a href=""><img src="assets/images/about/netw.jpg" alt="images"></a>
                     </div>
                     <div class="project-content">  
                         <div class="project-inner">
-                            <h3 class="title"><a href="projects-single.html">Eisenhower Elementary</a></h3>
-                            <span class="category"><a href="projects-single.html">Interiors</a></span>
+                            <h3 class="title"><a href="">Network installation</a></h3>
+                            <span class="category"><a href="">Telecommication</a></span>
                         </div>
-                        <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
+                        <div class="p-icon"><a href=""><i class="flaticon-next"></i></a></div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 grid-item filter2 filter4">
-                   <div class="project-item">
-                       <div class="project-img">
-                           <a href="projects-single.html"><img src="assets/images/project/style1/6.jpg" alt="images"></a>
-                       </div>
-                       <div class="project-content">  
-                           <div class="project-inner">
-                               <h3 class="title"><a href="projects-single.html">Edison Middle School</a></h3>
-                               <span class="category"><a href="projects-single.html">Interiors</a></span>
-                           </div>
-                           <div class="p-icon"><a href="projects-single.html"><i class="flaticon-next"></i></a></div>
-                       </div>
-                   </div>
-            </div> --}}
+             </div>
+           
         </div>
     </div>
 </div>
@@ -551,7 +241,7 @@
                         Why Choose Us
                     </span>
                     <h2 class="title pb-20">
-                        Dinfotel Solutions.
+                        Engineering Project Management Services
                     </h2>
                     <p class="desc">
                         We are committed to providing affordable pricing, without compromising on the quality of our services. 
@@ -616,41 +306,7 @@
                         </div>
                     </div>
                 </div>
-                {{-- <div class="working-skill-part pt-50">
-                    <div class="row y-middle">
-                        <div class="col-lg-4">
-                            <div class="title-inner mb-10">        		      		
-                                <h4 class="title">
-                                    Working skill
-                                </h4>			  
-                            </div>
-                            <div class="title-inner">        		      		
-                                <h4 class="title">
-                                    Client rating
-                                </h4>			  
-                            </div>
-                        </div>
-                        <div class="col-lg-8">
-                            <div class="rs-skillbar skillbar-style1 mb-10">
-                                <div class="cl-skill-bar">
-                                   <!-- Start Skill Bar -->
-                                   <div class="skillbar" data-percent="95">
-                                       <p class="skillbar-bar"></p>
-                                       <span class="skill-bar-percent">95%</span> 
-                                   </div>
-                               </div>
-                            </div>
-                            <ul class="icon-list-item">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <p class="view-result pt-15">5.00 Average Based On 50 Rating – <a href="#"><span>More information</span></a></p>
-                </div> --}}
+                
             </div>
         </div>
     </div>
@@ -704,7 +360,7 @@
                    </div>
                </div>
            </div>
-           <div class="col-lg-2 pr-50 md-pr-15 con-right-6 md-mt-50">
+           <div class="col-lg-4 pr-50 md-pr-15 con-right-6 md-mt-50">
                <div class="contact-box-item">
                 <div class="contact-box mb-20">
                     <div class="contact-icon">
@@ -741,7 +397,7 @@
                 </div>
                </div>
            </div>
-           <div class="col-lg-4 contact-right-img"></div>
+           <div class="col-lg-2 contact-right-img"></div>
        </div>
 </div>
 <!-- Contact Section End -->

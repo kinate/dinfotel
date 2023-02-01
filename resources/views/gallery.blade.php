@@ -13,7 +13,7 @@
                     Systems<br>
                     With more than 2+ Years in service.</span>
                 <ul class="breadcrumbs-area">
-                    <li title="Go to konstruk">
+                    <li title="Go to dinfotel">
                         <a class="active" href="{{ URL::to('index') }}">Home</a>
                     </li>
                     <li>Gallery</li>
